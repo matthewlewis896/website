@@ -14,13 +14,7 @@ organizations:
   url: https://iiasa.ac.at/staff/staff.php?type=auto&visibility=visible&search=true&login=lewism
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an ecologist broadly interested in how we can prioritize conservation action and use trait-based approaches to design and test  conservation interventions at scale. 
-
-I believe we have a responsibility to minimise the negative impacts of humans on as many species as possible, irrespective of how popular, or useful they are, but that any action which comes with multiple benefits for humans and nature will lead to greater long-term gains for conservation.
-
-I studied for my Undergraduate and Masters degrees at the University of Cambridge, UK, and have also worked at UNEP-WCMC and the RSPB prior to my current job at IIASA.
-
-My pronouns are he/him.
+bio: hi
 
 # Interests to show in About widget
 interests:
@@ -73,6 +67,12 @@ email: "matthewlewis896@gmail.com"
 highlight_name: true
 ---
 
-Matt Lewis is...
+I am an ecologist broadly interested in how we can prioritize conservation action and use trait-based approaches to design and test  conservation interventions at scale. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+I believe we have a responsibility to minimise the negative impacts of humans on as many species as possible, irrespective of how popular, or useful they are, but that any action which comes with multiple benefits for humans and nature will lead to greater long-term gains for conservation.
+
+I studied for my Undergraduate and Masters degrees at the University of Cambridge, UK, and have also worked at UNEP-WCMC and the RSPB prior to my current job at IIASA.
+
+My pronouns are he/him.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Matthew_Lewis_CV_website.pdf" "newtab" >}}CV{{< /staticref >}}.
