@@ -14,19 +14,19 @@ organizations:
   url: https://iiasa.ac.at/staff/staff.php?type=auto&visibility=visible&search=true&login=lewism
 
 # Short bio (displayed in user profile at end of posts)
-bio: hi
+bio: Spatial Ecologist interested in making the world a better place.
 
 # Interests to show in About widget
 interests:
 - Conservation Prioritisation
-- Spatial Analyses
-- Insect Ecology
+- Spatial Ecology
+- Insect Conservation
 
 # Education to show in About widget
 education:
   courses:
   - course: MPhil in Biological Sciences (Zoology)
-    institution: University of Cambridge
+    institution: Insect Ecology Group, University of Cambridge
     year: 2020
   - course: BA in Natural Sciences (Zoology)
     institution: University of Cambridge
