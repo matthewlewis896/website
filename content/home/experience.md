@@ -16,7 +16,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: 2020-01-02
+date_format: '01/02/06'
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -41,7 +41,7 @@ experience:
     company_url: 'https://www.zoo.cam.ac.uk'
     location: Cambridge, UK
     date_start: '2020-01-01'
-    date_end: '2020-01-01'
+    date_end: '2021-01-01'
     description: Fully-funded, independently conceived proposal diagnosing cause of decline and identifying habitat preferences of the Small Heath butterfly to improve its conservation status across multiple spatial and temporal scales.
 
   - title: Intern
