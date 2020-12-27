@@ -51,9 +51,9 @@ experience:
     date_start: '2019-10-01'
     date_end: '2020-12-20'
     description: |2-
-          * Hierarchical Distance Sampling Modelling
-          * Data Management of long-term data-sets of 150,000+ records
-          * Technical Support for AI for Earth project with Microsoft
+        * Hierarchical Distance Sampling Modelling
+        * Data Management of long-term data-sets of 150,000+ records
+        * Technical Support for AI for Earth project with Microsoft
 
   - title: Intern
     company: UNEP-WCMC
@@ -62,7 +62,7 @@ experience:
     date_start: '2019-07-01'
     date_end: '2020-09-15'
     description: |2-
-          * Developed spatially explicit vulnerable soil carbon layer using Google  Earth Engine as part of [Nature Map Project](https://naturemap.earth)
-          * Created [_redlistManipulatr_](https://github.com/matthewlewis896/redlistManipulatr) R package to manipulate IUCN Red List data
-          * International collaborations on code and data QA/QCing
+        * Developed spatially explicit vulnerable soil carbon layer using Google  Earth Engine as part of [Nature Map Project](https://naturemap.earth)
+        * Created [_redlistManipulatr_](https://github.com/matthewlewis896/redlistManipulatr) R package to manipulate IUCN Red List data
+        * International collaborations on code and data QA/QCing
 ---
