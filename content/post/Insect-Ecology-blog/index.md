@@ -9,10 +9,10 @@ summary: Some musings on Small Heath (_Coenonympha pamphilus_), and conservation
 projects: []
 
 # Date published
-date: "2016-04-20T00:00:00Z"
+date: "2020-08-01"
 
 # Date updated
-lastmod: "2020-08"
+lastmod: "2020-08-01"
 
 # Is this an unpublished draft?
 draft: false
